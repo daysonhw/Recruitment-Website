@@ -1,0 +1,1 @@
+export const domainName = 'http://careers.ctos.ltd:8000/api/'
